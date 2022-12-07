@@ -29,15 +29,14 @@ Initialisierung an die Hand geben.
 **Community Canvas**
 
 Der [Community Canvas](https://community-canvas.org/) bietet ein einfaches methodisches Rahmenwerk
-für den konzeptionellen Prozess. Anhand von 3 Hauptbereichen (Identität,
-Erfahrung, Struktur) und 17 untergeordneten Themenbereichen führt der
+für den konzeptionellen Prozess. Anhand von 9 Themenbereichen führt der
 Canvas durch alle Aspekte der Community-Konzeptionierung. Ihr könnt in
 Workshop-Formaten viele Beitragende einbeziehen und ko-kreativ ein
 gemeinsames Bild vom Daseinsgrund der Community gewinnen sowie eine
 miteinander geteilte Idee darüber entwickeln, wie diese gelebt werden
 kann.
 
-Ein Anwendungsbeispiel für die gemeinsame Arbeit mit dem Community
+Ein Anwendungsbeispiel für die gemeinsame Arbeit mit einem (erweiterten) Community
 Canvas hat Harald Lauritsch [hier vorgestellt](https://www.youtube.com/watch?v=OiKSTO4-xoE) (YouTube).
 
 **Party-Liste**
@@ -65,22 +64,22 @@ Erkenntnisse über Verhalten und Wünsche zukünftiger Mitglieder gewinnen.
 **Links**
 
 - Community Canvas ([Englisch](https://community-canvas.org) , [Deutsch](https://community-canvas.org/translations#german) und in weiteren Sprachen)
-
 - [Presencing Institute (Theorie U)](https://www.presencing.org/resource/tools)
-
-- Design Thinking
-  [https://www.designthinking-methods.com/en/](https://www.designthinking-methods.com/en/)
-
+- Design Thinking [https://www.designthinking-methods.com/en/](https://www.designthinking-methods.com/en/)
 - [Party-Liste für Community Aufbau](https://www.communitymanagement.de/wie-ihnen-die-partyplanung-beim-aufbau-ihrer-community-hilft/)
-
-- Community of Practice [Quick Startup Guide](https://wenger-trayner.com/quick-cop-start-up-guide/)
-  nach Wenger / Trayner
+- Community of Practice [Quick Startup Guide](https://wenger-trayner.com/quick-cop-start-up-guide/) nach Wenger / Trayner
 
 ### Einordnung der Community - warum braucht es euch und wem ähnelt ihr?
 
 Beim ersten Skizzieren der Community könnt ihr euch an den folgenden
 Leitfragen orientieren. Der Community-Canvas (siehe vorheriger
 Abschnitt) schlägt weitere, ähnliche Fragen und Anhaltspunkte vor.
+
+- **Why - How - What**: Warum soll es euch geben? Was möchtet ihr
+  verändern oder verbessern? Wie möchtet ihr euch dafür organisieren?
+  Wie zusammenarbeiten? Wie geht ihr auf Leute zu? Welche
+  Regelmeetings solle es geben? Was soll konkret passieren? Was
+  entstehen?
 
 - **Wie sieht das Ökosystem aus**? Welche bestehenden
   Kommunikationskanäle beschäftigen sich mit dem Thema der geplanten
@@ -93,12 +92,6 @@ Abschnitt) schlägt weitere, ähnliche Fragen und Anhaltspunkte vor.
   auch recht strenge Regeln, besonders was das Anlegen von
   Fachcommunities angeht. Informiert euch, lasst im Zweifel das Ego
   sausen und tut euch mit anderen zusammen.
-
-- **Why - How - What**: Warum soll es euch geben? Was möchtet ihr
-  verändern oder verbessern? Wie möchtet ihr euch dafür organisieren?
-  Wie zusammenarbeiten? Wie geht ihr auf Leute zu? Welche
-  Regelmeetings solle es geben? Was soll konkret passieren? Was
-  entstehen?
 
 - Findet einen passenden, klaren und einladenden **Namen** für die
   Community. Das zentrale Anliegen oder Thema sollte direkt erkennbar
@@ -121,7 +114,7 @@ Abschnitt) schlägt weitere, ähnliche Fragen und Anhaltspunkte vor.
   erfolgreich ist? (***Abschnitt Erfolgsmessung***)
 
 Diese Punkte fließen ein in einen Community-Grobkonzept oder einen
-Community-Steckbrief, dessen Inhalte Basis eurer Gespräche mit weiteren
+Community-**Steckbrief**, dessen Inhalte Basis eurer Gespräche mit weiteren
 Interessierten sein können.
 
 ### Klarheit über Community-Typ und treibende Kräfte gewinnen

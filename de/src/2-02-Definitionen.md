@@ -2,13 +2,16 @@
 ![300](images/Community_Typen.png)
 
 Was versteht ihr unter Communities? Stellt diese Frage 10 Personen, und ihr bekommt 15 verschiedene Antworten. Vielleicht stimmen die Zahlen in dieser Zuspitzung nicht ganz, aber Fakt ist: Mit Communities und Community Management können noch Viele wenig anfangen. Oder ihre Konnotationen sind unscharf. Und natürlich hält auch die Fachliteratur unterschiedliche Definitionen bereit oder nutzt verschiedene Systematiken und Terminologien, um Community-Typen voneinander zu differenzieren.
+
 Wer Communities in Unternehmen einführen will, muss Begrifflichkeiten rund um Communities überlegt einsetzen. Denn letztlich wird er oder sie auf viele Menschen in allen ***Führungs***ebenen treffen, bei denen “Communities” mit unterschiedlichen Vorstellungen verbunden sind. Wir geben im Folgenden einen kleinen Überblick über die gängigen Begrifflichkeiten in der Fachliteratur und legen dar, welche Begriffe wir im lernOS Community Management Guide verwenden. Im Anhang könnt ihr euch die erwähnten Definitionen verschiedener Quellen ausführlich anschauen.
 #### "Communities" im weiteren Sinne
 Die Bezeichnung Communities wird im Internet und in Organisationen unscharf verwendet. Damit verlieren leider auch darauf aufsetzende Bezeichnungen wie bspw. "Community Management" ihre Präzision. Grund genug, sich die wichtigsten Unterscheidungen und Unterscheidungskriterien anzusehen. Wir folgen an dieser Stelle [Wenger et al.](https://hbswk.hbs.edu/archive/cultivating-communities-of-practice-a-guide-to-managing-knowledge-seven-principles-for-cultivating-communities-of-practice) die **Communities of Practice** zunächst von anderen Formen sozialer Vernetzung abgrenzen, wie sie vor allem in Organisationen vorkommen. Auch für diese Formen wird im modernen Alltagsenglisch häufig die Bezeichnung "Communities" verwendet.
+
 Es sind dies
 - **Abteilungen** als Teil einer formalen Organisationsstruktur
 - **Teams**, häufig als Unterstruktur von Abteilungen oder als abteilungsübergreifende Gruppen, die ein Produkt oder eine Dienstleistung dauerhaft anbieten/betreiben
 - **Projekt-Teams** als temporäre formelle Strukturen
+- 
 Im angelsächsischen Sprachraum verweist die bloße Bezeichnung "Communities" in der Regel auf physische Nachbarschaften während in der "Online-Welt" häufig der mitunter sehr lose Zusammenhang von allen Nutzern einer Plattform gemeint sein kann ("Verwendungsgemeinschaft" nach [Jan Schmidt](https://www.uni-bamberg.de/fileadmin/uni/fakultaeten/split_professuren/journalistik/Fonk/pdfs-Veroeffentlichungen/Abschlussbericht_onlinegestuetztes_Netzwerken_SCHM2359_11.pdf) )
 ## Communities of Practice (CoP)
 **Wenger-Trayner** beschreiben **Communities of Practice** als Gruppen von Personen mit einem gemeinsamen Anliegen oder einer gemeinsamen Leidenschaft für eine Tätigkeit und die durch durch regelmäßige Interaktion voneinander lernen.

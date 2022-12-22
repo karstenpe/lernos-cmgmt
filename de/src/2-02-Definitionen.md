@@ -12,8 +12,11 @@ Es sind dies
 Im angelsächsischen Sprachraum verweist die bloße Bezeichnung "Communities" in der Regel auf physische Nachbarschaften während in der "Online-Welt" häufig der mitunter sehr lose Zusammenhang von allen Nutzern einer Plattform gemeint sein kann ("Verwendungsgemeinschaft" nach [Jan Schmidt](https://www.uni-bamberg.de/fileadmin/uni/fakultaeten/split_professuren/journalistik/Fonk/pdfs-Veroeffentlichungen/Abschlussbericht_onlinegestuetztes_Netzwerken_SCHM2359_11.pdf) )
 ## Communities of Practice (CoP)
 **Wenger-Trayner** beschreiben **Communities of Practice** als Gruppen von Personen mit einem gemeinsamen Anliegen oder einer gemeinsamen Leidenschaft für eine Tätigkeit und die durch durch regelmäßige Interaktion voneinander lernen.
+
 Eine **Community of Practice** ist also eine Gruppe, die ähnliche Tätigkeiten ausüben oder durch thematische Überschneidungen verbunden sind *und* die diese Praktiken im Austauch weiterentwickeln möchten.
+
 In Organisationen sind damit Mitarbeiter mit einem ähnlichen Job- oder Aufgabenprofil eine Gruppe, die eine Community of Practice bilden kann.
+
 Beispielsweise HR-Betreuer, "Scrum Masters", ### 
 ## Communities of Interest und Informelle Netzwerke
 ### Informelle Netzwerke
@@ -28,8 +31,8 @@ Im Bereich physischer Nachbarschaften können beispielsweise folgende "Gegenstä
 - geteiler Initiative zur Veränderung von Umständen / Entscheidungen
 Interne Anwendungsfälle: Gamer-Community, Vegane Community, Foto-Community, Visual Thinking Community, Lauftreff
 #### Weitere Quellen
-https://socialnow.org/teams-communities-networks-core/ (2020)
-https://hbr.org/2000/01/communities-of-practice-the-organizational-frontier (2000)
+- https://socialnow.org/teams-communities-networks-core/ (2020)
+- https://hbr.org/2000/01/communities-of-practice-the-organizational-frontier (2000)
 ## NOCH ZU ÜBERARBEITEN .... Welche Begriffe verwenden wir im Guide? / ## Schwerpunktsetzung in diesem Guide
 *hier wird es jetzt tricky mit der Kompatibilität mit dem Core* ... denn dort gibt es für Abteilungen und Teams eigene "Heimaten"
 - **Community:** Communities sind Gruppen von Menschen, die gemeinsame oder einander ergänzende Interessen haben. Im Zusammenkommen und Interagieren sehen sie eine Möglichkeit, geteilte und individuelle Ziele zu erreichen. Im Zentrum der Community stehen immer die Aktivitäten und Beziehungen der teilnehmenden Menschen, auch wenn diese Menschen sich schwerpunktmäßig über eine Online-Plattform  organisieren oder entsprechende digitale Kanäle nutzen. In der Praxis werden oft sehr erfolgreich verschiedene Interaktionsplattformen oder -Kanäle kombiniert. So etwa, wenn sich eine Online-Community zu einen physischen Community-Event trifft.

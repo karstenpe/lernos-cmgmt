@@ -11,7 +11,7 @@ Es sind dies
 - **Abteilungen** als Teil einer formalen Organisationsstruktur
 - **Teams**, häufig als Unterstruktur von Abteilungen oder als abteilungsübergreifende Gruppen, die ein Produkt oder eine Dienstleistung dauerhaft anbieten/betreiben
 - **Projekt-Teams** als temporäre formelle Strukturen
-- 
+
 Im angelsächsischen Sprachraum verweist die bloße Bezeichnung "Communities" in der Regel auf physische Nachbarschaften während in der "Online-Welt" häufig der mitunter sehr lose Zusammenhang von allen Nutzern einer Plattform gemeint sein kann ("Verwendungsgemeinschaft" nach [Jan Schmidt](https://www.uni-bamberg.de/fileadmin/uni/fakultaeten/split_professuren/journalistik/Fonk/pdfs-Veroeffentlichungen/Abschlussbericht_onlinegestuetztes_Netzwerken_SCHM2359_11.pdf) )
 ## Communities of Practice (CoP)
 **Wenger-Trayner** beschreiben **Communities of Practice** als Gruppen von Personen mit einem gemeinsamen Anliegen oder einer gemeinsamen Leidenschaft für eine Tätigkeit und die durch durch regelmäßige Interaktion voneinander lernen.

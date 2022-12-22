@@ -276,7 +276,7 @@ Ziele verfeinern:
 
 Mache dir Gedanken über deine Zielhorizonte (siehe oben).
 
-Fülle im Canvas das Feld "Ziele" aus.
+Fülle im Canvas das Feld "Zweck & Vision" aus.
 
 **Review und Reflexion**
 
@@ -387,7 +387,7 @@ entwickeln.
 - Passende Maßnahmen (Formate, Taktiken) zusammenstellen, die auf die
   Ziele der Community einzahlen
 
-- Felder ("Inhalte", "geteilte Erfahrungen", "Rituale") im Canvas
+- Felder ("Inhalte", "geteilte Erfahrungen", "Praktiken und Rhythmen") im Canvas
   ausfüllen
 
 **Review und Reflexion**

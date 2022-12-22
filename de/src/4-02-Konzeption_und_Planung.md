@@ -22,13 +22,13 @@ Beim Skizzieren könnt ihr so frei und kreativ sein, wie ihr möchtet. Der
 Lernpfad im zweiten Teil dieses Guides führt euch auch Schritt für
 Schritt durch die Überlegungen zum Aufsetzen der Community hindurch.
 Zwei Hilfsmittel, die wir für diese Schritte richtig gut finden, sind
-der [Community Canvas](https://community-canvas.org/) und die Community-[Partyliste](https://www.communitymanagement.de/wie-ihnen-die-partyplanung-beim-aufbau-ihrer-community-hilft/). Beide
+der lernOS [Community Canvas](images/CanvasLernosCoP.svg) und die Community-[Partyliste](https://www.communitymanagement.de/wie-ihnen-die-partyplanung-beim-aufbau-ihrer-community-hilft/). Beide
 können euch einen roten Faden für eure Konzeptionsphase und die
 Initialisierung an die Hand geben.
 
 **Community Canvas**
 
-Der [Community Canvas](https://community-canvas.org/) bietet ein einfaches methodisches Rahmenwerk
+Der lernOS [Community Canvas](images/CanvasLernosCoP.svg) bietet ein einfaches methodisches Rahmenwerk
 für den konzeptionellen Prozess. Anhand von 9 Themenbereichen führt der
 Canvas durch alle Aspekte der Community-Konzeptionierung. Ihr könnt in
 Workshop-Formaten viele Beitragende einbeziehen und ko-kreativ ein

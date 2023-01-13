@@ -331,9 +331,9 @@ heute und was möchten wir verbessern? Hieraus ergeben sich fast von
 selbst etwaige zu unterstützende Abläufe und Themen der Community,
 ebenso wie die Zielgruppe, d.h. diejenigen, die für die
 Community-Abläufe benötigt werden. Oscar Berg hat für diese Analyse das
-sogenannte [Digital Collaboration Canvas](http://www.oscarberg.net/blog//2015/04/introducing-digital-collaboration-canvas.html) entwickelt, welches eine
+sogenannte [Digital Collaboration Canvas](http://www.oscarberg.net/blog//2015/04/introducing-digital-collaboration-canvas.html) (??? in lernOS eher das PKM-AktivitätsModell ???) entwickelt, welches eine
 einfache und gut strukturierte Vorgehensweise bietet. Das Canvas kann
-unter diesem [Link](https://bit.ly/344GwTI) heruntergelanden werden.
+unter diesem [Link](https://bit.ly/344GwTI) heruntergelanden werden. (!!! Quellen für die Waben bei Oscar Berg teilweise nicht mehr abrufbar!!!)
 
 Eine weitere Vorlage für die Ziele-, Zielgruppen- und Nutzendefinition
 sowie für die Community-Skizzierung ist neben dem schon genannten

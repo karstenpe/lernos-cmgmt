@@ -327,7 +327,7 @@ sie motivieren? Wie werden sie für euch überhaupt greifbar?
 
 - Erstellen von Personas für die eigene Community
 
-- Fülle die Felder "Identität" und "Werte" im Canvas aus.
+- Fülle die Felder "Werte und Prinzipien" im Canvas aus.
 
 **Review und Reflexion**
 
@@ -337,21 +337,21 @@ sie motivieren? Wie werden sie für euch überhaupt greifbar?
 
 **Weiterführende Vorschläge**
 
-Der Community Canvas enthält folgende Hinweise zum Thema Zielgruppen:
+Der Community Canvas enthält folgende Hinweise zum Thema Zielgruppen und Stakeholder:
 
 Für wen ist die Community? Welche Zielgruppe soll angesprochen werden?
 Communities richten sich immer an spezielle Zielpersonen. Die Antwort
-auf die Frage „für wen ist diese Community?“ lautet nie für alle gleich.
+auf die Frage „für wen ist diese Community?“ lautet nie für alle(??? alle was ???) gleich.
 
-Fragen die in diesem Themengebiet gestellt werden können sind:
+Fragen die in diesem Zusammenhang gestellt werden können sind:
 
-- Welche Charaktereigenschaften teilen die Mitglieder?
+- Welche Praktiken bzw. Tätigkeitseigenschaften teilen die Mitglieder?
 
-- Wie beschreibt die Community ihre Mitglieder?
+- Wie beschreibt die Community ihre Mitglieder selbst?
 
 - Wie lautet das Profil der aktivsten Mitglieder in der Community?
 
-- Wie kümmert sich die Community um ihre Stammuser?
+- Wie kümmert sich die Community um ihre Stammuser? (???User???)
 
 Literatur:
 
@@ -387,7 +387,7 @@ entwickeln.
 - Passende Maßnahmen (Formate, Taktiken) zusammenstellen, die auf die
   Ziele der Community einzahlen
 
-- Felder ("Inhalte", "geteilte Erfahrungen", "Praktiken und Rhythmen") im Canvas
+- Felder "Thematischer Kern",  "Praktiken, Rhythmen und Inhalte (!!!)" im Canvas
   ausfüllen
 
 **Review und Reflexion**
@@ -396,8 +396,8 @@ entwickeln.
   die Motivation eurer Mitglieder ansprechen und andererseits zur
   Erreichung eurer Ziele beitragen.
 
-- Schaut euch eure Eintragungen in den Feldern zur Identität im Canvas
-  an. Passen Aktivitäten und Inhalte dazu?
+- Schaut euch eure Eintragungen im Feldern "Identität, Zugang, Entscheidungen" im Canvas
+  an. Passen Praktiken, Inhalte und Rhythmen dazu?
 
 **Weiterführende Vorschläge**
 
@@ -411,7 +411,7 @@ entwickeln.
 
 ## 6 - Technologien
 
-**Themen**
+**Themen** (???)
 
 In vielen Fällen steht für interne Communities eine Standard-Plattform
 zur Verfügung, zum Beispiel ein Social Intranet oder ein internes
@@ -472,7 +472,6 @@ Recherche. Mehr dazu unter “Weiterführende Vorschläge”.
   bestehende Lücke zu schließen?
 
 **Weiterführende Vorschläge**
-
 Die Technologien entwickeln sich ständig weiter, daher haben wir hier
 auf konkrete Verweise verzichtet. Beschaffe dir Informationen von den
 internen oder externen Technologie-Anbietern. Vernetze dich mit anderen
@@ -668,7 +667,7 @@ wie eure Moderation beides unterstützt und am Leben erhält.
 
 - Erfahrungsaustausch mit anderen Community Managerinnen
 
-- Felder ("Inhalte", "geteilte Erfahrungen", "Rituale") im Canvas
+- Felder "Thematischer Kern", "Praktiken, Rhythmen, Inhalte" und "Identität, Zugang, Entscheidungen"  im Canvas
   reviewen
 
 - Netiquette erstellen
